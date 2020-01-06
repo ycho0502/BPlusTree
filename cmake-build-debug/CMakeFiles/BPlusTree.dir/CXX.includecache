@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ycho0502/CLionProjects/BPlusTree/BPlusTree.h
+Functions.h
+/Users/ycho0502/CLionProjects/BPlusTree/Functions.h
+
+/Users/ycho0502/CLionProjects/BPlusTree/Functions.h
+iostream
+-
+iomanip
+-
+
+/Users/ycho0502/CLionProjects/BPlusTree/Pair.h
+iostream
+-
+
+/Users/ycho0502/CLionProjects/BPlusTree/main.cpp
+iostream
+-
+BPlusTree.h
+/Users/ycho0502/CLionProjects/BPlusTree/BPlusTree.h
+Pair.h
+/Users/ycho0502/CLionProjects/BPlusTree/Pair.h
+
